@@ -1,4 +1,7 @@
+<div align="center">
+ 
 ### 🚀 Tech Stack 
+ 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
@@ -13,9 +16,9 @@
 
 🌱 Currently learning: SSAFY  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=colamong&show_icons=true" height="200">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colamong&layout=compact&langs_count=8" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=colamong&show_icons=true" height="200">
 </div>
 
 
