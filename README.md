@@ -13,5 +13,13 @@
 
 🌱 Currently learning: SSAFY  
 
- [![My github stats](https://github-readme-stats.vercel.app/api?username=colamong)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=colamong&show_icons=true" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colamong&layout=compact&langs_count=8" height="200">
+</div>
+
+
+
+
+
 
