@@ -16,11 +16,7 @@
 ### 📫 Contact 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mjang.dev@gmail.com)](mailto:mjang.dev@gmail.com)
 
-🌱 Currently learning: SSAFY  
-
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colamong&layout=compact&langs_count=8" height="200">
-  <img src="https://github-readme-stats.vercel.app/api?username=colamong&show_icons=true" height="200">
+### 🌱 Bootcamp : SSAFY  
 </div>
 
 
