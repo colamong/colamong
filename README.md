@@ -15,11 +15,11 @@ AWS Bedrock 기반 채팅 에이전트의 툴 호출·응답 경로를 Kotlin/Sp
 
 ### 🌐 Open Source
 
-**[opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation)** · [#19725](https://github.com/open-telemetry/opentelemetry-java-instrumentation/pull/19725)
+**[opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation)** · [#19725](https://github.com/open-telemetry/opentelemetry-java-instrumentation/pull/19725) · [#20034](https://github.com/open-telemetry/opentelemetry-java-instrumentation/pull/20034)
 
-`otel.spring-starter.debug` 플래그가 켜지지 않던 문제.<br>자동 설정 클래스가 등록 파일에서 빠져 있었고, 기존 테스트는 탐색 경로를 건너뛰어 전부 통과하고 있었습니다
+`spring-starter.debug` 플래그가 켜지지 않던 문제 — 속성 경로와 선언형 경로 각각.<br>속성 쪽은 자동 설정 클래스가 등록 파일에서 빠져 있었고, 선언형 쪽은 Spring 이 값을 문자열로 넘겨 `getBoolean` 이 항상 false 였습니다
 
-**[egovframe-common-components](https://github.com/eGovFramework/egovframe-common-components)** · 머지 11건
+**[egovframe-common-components](https://github.com/eGovFramework/egovframe-common-components)** · 머지 13건
 
 전자정부 표준프레임워크 공통 컴포넌트.<br>작성자·관리자 권한 검증 누락, 로그인 세션과 중복 제출 토큰의 동시성, 검증 실패 시 화면 상태 복원
 
